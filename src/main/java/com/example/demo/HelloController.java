@@ -18,5 +18,4 @@ public class HelloController
 	 public String taro() {
 		       return "Taro desu!";
 	 }
- }
-
+ } 		   
